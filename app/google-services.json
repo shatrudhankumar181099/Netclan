@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472974979788",
+    "project_id": "netclan-829a4",
+    "storage_bucket": "netclan-829a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472974979788:android:b445264d5ae81f4afd8869",
+        "android_client_info": {
+          "package_name": "com.example.netclan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472974979788-qnbompj9jikdmj8k72ksi4uqahhi03cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0HwOCtXMBjtVqCQRlWkqVJglc1Q_c2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472974979788-qnbompj9jikdmj8k72ksi4uqahhi03cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

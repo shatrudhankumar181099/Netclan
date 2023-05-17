@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Netclan</string>
+
+    string.txt
+    //Headings
+    <string name="heading_one">Explore the community nearby</string>
+    <string name="heading_two">Explore your profile,services and offering</string>
+    <string name="heading_three">Find you, know your details</string>
+
+    //Description
+    <string name="desc_one">Friends,companion,hobby partner,professional services,marchant deals,jobs,used goals</string>
+    <string name="desc_two">Best platform to advertice your skills and offering through professional page of the app while growing with Netclan community</string>
+    <string name="desc_three">Publish your profile and deals over the app and get a huge traction, best way to grwo your bussines</string>
+</resources>
